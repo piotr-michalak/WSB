@@ -51,7 +51,7 @@
 
         // wersja PHP
         echo PHP_VERSION; //7.4.10
-        echo 
+        echo phpinfo();
     ?>
 </body>
 <head>
